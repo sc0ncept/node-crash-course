@@ -1,0 +1,29 @@
+{
+  "name": "node_cc",
+  "version": "1.0.0",
+  "description": "YouTube link: https://youtu.be/fBNz5xF-Kx4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sc0ncept/node-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sc0ncept/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/sc0ncept/node-crash-course#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "nodemon": "^2.0.13"
+  }
+}
